@@ -1,4 +1,6 @@
-## Video Recording Link:
+# Video Recording Link
+
+## Week 1:
 
 [Image Classification](https://drive.google.com/file/d/1zGXEQmLGBIF9vJCvIuCYpsU27hD7TXNi/view?usp=sharing)
 
